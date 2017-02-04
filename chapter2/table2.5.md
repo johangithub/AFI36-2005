@@ -1,4 +1,4 @@
-####Table 2.5{#table2_5} Service Credit On Appointment Or Designation As A Biomedical Sciences Corps (BSC), Medical Service Corps (MSC), Or Nurse Corps (NC) Officer.
+####[Table 2.5](#table2_5){#table2_5} Service Credit On Appointment Or Designation As A Biomedical Sciences Corps (BSC), Medical Service Corps (MSC), Or Nurse Corps (NC) Officer.
 
 | Rule | If appointing or designating an individual as a | and they have completed                                                                                                                                                               | then the amount of service credit awarded is (see note 1)                                                                  |
 |------|-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|

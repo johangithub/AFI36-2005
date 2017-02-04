@@ -112,9 +112,3 @@ Organizational activities shown in paragraphs 1.5 through 1.16 determine the adm
 ---
 
 #### 1.18. DELETED
-
-<style>
-li { 
-	list-style-type: none;
-}
-</style>

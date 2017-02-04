@@ -1,4 +1,4 @@
-####Table 2.7{#table2_7} Advanced Degrees Creditable For Awarding Additional Credit.
+####[Table 2.7](#table2_7){#table2_7} Advanced Degrees Creditable For Awarding Additional Credit.
 
 <table class="tg">
   <tr>

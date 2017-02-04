@@ -1,4 +1,4 @@
-####Table 2.3{#table2_3} Appointment Grade And Computation Of Total Years Service Date (TYSD), Date of Rank (DOR), and Total Federal Commissioned Service Date (TFCSD).
+####[Table 2.3](#table2_3){#table2_3} Appointment Grade And Computation Of Total Years Service Date (TYSD), Date of Rank (DOR), and Total Federal Commissioned Service Date (TFCSD).
 
 | Rule | If the individual                                                                                                                                                               | then (see note 1) |
 |------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|

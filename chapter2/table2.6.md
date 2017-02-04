@@ -1,4 +1,4 @@
-####Table 2.6{#table2_6} Service Credit For Line Of The Air Force, Chaplain, Judge Advocate, And Air Force General Counsel's Honors Program Officers
+####[Table 2.6](#table2_6){#table2_6} Service Credit For Line Of The Air Force, Chaplain, Judge Advocate, And Air Force General Counsel's Honors Program Officers
 
 | Rule | If the individual is                                                                                      | and has completed                                                                                                                                                 | then the amount of service credit awarded is (see note 1).                                                                              |
 |------|-----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|

@@ -1,4 +1,4 @@
-####[Table 2.2]{#table2_2} Conditions That Make Applicants Ineligible for Appointment.
+####[Table 2.2](#table2_2){#table2_2} Conditions That Make Applicants Ineligible for Appointment.
 | Item | Applicants are ineligible for appointment when one of the following conditions exist (See note 1). |
 |---|---|
 | 1  |Questionable moral character, history of antisocial behavior, alcoholism, frequent difficulties with law enforcement agencies, history of psychotic disorders, transsexualism and other gender identity disorders, exhibitionism, transvestitism, voyeurism and other paraphilias.	|

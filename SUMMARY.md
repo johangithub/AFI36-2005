@@ -2,7 +2,7 @@
 
 * [1. General Information and Instruction](./chapter1/chapter1.md)
 * [2. Eligibility, Ineligibility, and Appointment Guidelines](./chapter2/chapter2.md)
-* [3. Application and Processing Procedures](chapter3.md)
+* [3. Application and Processing Procedures](./chapter3/chapter3.md)
 * [4. Judge Advocate Officers](chapter4.md)
 * [5. Chaplains](chapter5.md)
 * [6. Physicians (includes Osteopaths), Dentists, and Nurses](chapter6.md)
