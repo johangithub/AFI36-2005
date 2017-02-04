@@ -1,6 +1,6 @@
 # Chapter 2: Eligibility, Ineligibility, and Appointment Guidelines
 
-#### [2.1](#2_1) Eligibility Factors.
+#### [2.1](#2_1){#2_1} Eligibility Factors.
 To be eligible for appointment you must:
 
 2.1.1. Be of high moral character and personal qualifications.
@@ -11,7 +11,7 @@ To be eligible for appointment you must:
 
 2.1.4. Be at least 18 years old. [Table 2.1](#table2_1) shows the maximum age for appointment in the various grades. Age criteria for appointments through AFROTC and OTS are in AFI 36-2011, Air Force Reserve Officer Training Corps and AFI 36-2013, Officer Training School(OTS) and Airman Commissioning Programs.
 
-2.1.5. Have a baccalaureate or higher degree. (See [Attachment 1](./attachments/attachment1.md)). 
+2.1.5. Have a baccalaureate or higher degree. (See [Attachment 1](../attachments/attachment1.md)). 
 
 2.1.6. Understand that to be eligible for retired pay under Title 10, U.S.C., Section 12731, the last 6 years of qualifying service must be as a member of any category named in Section 12732(a)(1) of this title, but not while a member of a Regular component, the Fleet Reserve, or the Fleet Marine Corps Reserve. (The National Defense Authorization Act for Fiscal Year 1995 change expires 30 Sep 1999; unless further extended, the last 6 years reverts back to the last 8 years on 1 Oct 1999.) 
 
@@ -284,7 +284,7 @@ The Reserve Officer Personnel Management Act (ROPMA) repealed Title 10, U.S.C., 
 2.18.6. Without specific congressional direction, appointing authorities cannot apply constructive service credit or service credit entitlements (grandfathering) retroactively and a member cannot terminate his or her appointment and request reappointment in order to take advantage of changes to constructive service credit or service credit rules. 
 
 ----
-#### 2.19. Determining Grade, Computing and Recording Total Years Service Date (TYSD), Dateof Rank (DOR), and Total Federal Commissioned Service Date (TFCSD).
+#### 2.19. Determining Grade, Computing and Recording Total Years Service Date (TYSD), Date of Rank (DOR), and Total Federal Commissioned Service Date (TFCSD).
 
 2.19.1. Use [Table 2.3](#table2_3) to determine grade and compute TYSD, DOR, and TFCSD. 
 
@@ -298,6 +298,7 @@ The Reserve Officer Personnel Management Act (ROPMA) repealed Title 10, U.S.C., 
 {% include "./table2.4.md" %}
 {% include "./table2.5.md" %}
 {% include "./table2.6.md" %}
+{% include "./table2.7.md" %}
 
 <style>
 ul { 

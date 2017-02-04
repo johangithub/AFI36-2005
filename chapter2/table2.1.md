@@ -1,6 +1,6 @@
 ####Table 2.1{#table2_1} Grade Determination
 
-| Rule | To be elligible for appointment in the grade of (See note 1) | applicant's service credit awarded (paragraph 2.18.) must be | And the applicant's age must be less than|
+| Rule | To be eligible for appointment in the grade of (See note 1) | applicant's service credit awarded (paragraph 2.18.) must be | And the applicant's age must be less than|
 |---|---|---|---|
 | 1 | second lieutenant | none required | 35 years (See notes 2,3, and 4). |
 | *2 | first lieutenant | at least 2 years | 35 years (See notes 2,3, and 5). |
