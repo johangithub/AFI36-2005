@@ -34,3 +34,9 @@ find:
 \n([A-Z])
 replace:
  $1
+
+6. Table replacement
+find:
+#table(\d)\_(\d)
+replace:
+\.\.\/chapter$1\/chapter$1\.md#table$1\_$2

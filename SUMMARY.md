@@ -6,8 +6,8 @@
 * [4. Judge Advocate Officers](./chapter4/chapter4.md)
 * [5. Chaplains](./chapter5/chapter5.md)
 * [6. Physicians (includes Osteopaths), Dentists, and Nurses](./chapter6/chapter6.md)
-* [7. Medical Services Corps](chapter7.md)
-* [8. Biomedical Sciences Corps](chapter8.md)
+* [7. Medical Services Corps](./chapter7/chapter7.md)
+* [8. Biomedical Sciences Corps](./chapter8/chapter8.md)
 
 ---
 
