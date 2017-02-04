@@ -28,3 +28,9 @@ find:
 Attachment (\d)
 replace:
 \[Attachment $1\]\(../attachments/attachment$1\.md\)
+
+5. Remove Linebreaks. This is money!!!
+find:
+\n([A-Z])
+replace:
+ $1
