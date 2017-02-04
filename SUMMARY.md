@@ -8,7 +8,9 @@
 * [6. Physicians (includes Osteopaths), Dentists, and Nurses](chapter6.md)
 * [7. Medical Services Corps](chapter7.md)
 * [8. Biomedical Sciences Corps](chapter8.md)
+
 ---
+
 * Attachments
 * [Attachment 1](./attachments/attachment1.md)
 * [Attachment 2](./attachments/attachment2.md)
