@@ -74,13 +74,13 @@
 ---
 
 * Attachments
-* [Attachment 1](./attachments/attachment1.md)
-* [Attachment 2](./attachments/attachment2.md)
-* [Attachment 3](./attachments/attachment3.md)
-* [Attachment 4](./attachments/attachment4.md)
-* [Attachment 5](./attachments/attachment5.md)
-* [Attachment 7](./attachments/attachment7.md)
-* [Attachment 8](./attachments/attachment8.md)
-* [Attachment 9](./attachments/attachment9.md)
-* [Attachment 10](./attachments/attachment10.md)
-* [Attachment 11](./attachments/attachment11.md)
+* [1. Glossary](./attachments/attachment1.md)
+* [2. USAF Appointment Memorandum](./attachments/attachment2.md)
+* [3. Current Direct Appointment Programs](./attachments/attachment3.md)
+* [4. Applicant Briefing Item On Separation Policy](./attachments/attachment4.md)
+* [5. Instructions for Drug Abuse Circumstances Statement](./attachments/attachment5.md)
+* [7. Statements of Understanding](./attachments/attachment7.md)
+* [8. ResAF APPOINTMENT MEMORANDUM](./attachments/attachment8.md)
+* [9. ResAF REAPPOINTMENT MEMORANDUM](./attachments/attachment9.md)
+* [10. RESERVE OF THE AIR FORCE APPOINTMENT MEMORANDUM—AFROTC](./attachments/attachment10.md)
+* [11. Composed Order, Distribution](./attachments/attachment11.md)

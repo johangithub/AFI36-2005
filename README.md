@@ -11,8 +11,8 @@ If you see any typos or issues, create issue [here](https://github.com/johangith
 ###### TODO: 
 - [] Fix Crosslinking the paragraphs
 - [X] Sidebar subsections
-- [ ] Attachments
+- [X] Attachments
 - [X] Create Index page for each chapter
 - [ ] Intro / Instruction page
-
+- [ ] Attachment Formatting
 
