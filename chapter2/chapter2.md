@@ -18,17 +18,19 @@ To be eligible for appointment you must:
 ######[2.1.7.](#2_1_7){#2_1_7} Meet additional eligibility requirements prescribed under other sections of this instruction for the applicable commissioning program. 
 
 ----
-#### 2.2. Ineligibility Factors.
+
+#### [2.2.](#2_2){#2_2} Ineligibility Factors.
 [Table 2.2](#table2_2) lists conditions that make persons ineligible for appointment. 
 
 ----
-#### 2.3. Waivers.
-######[2.3.1.](#2_3_1){#2_3_1} General Information. Forward waiver requests of eligibility or ineligibility criteria through appropriate command channels only if recommending approval. The overriding consideration is the best interest of the Air Force.
+#### [2.3.](#2_3){#2_3} Waivers.
+######[2.3.1.](#2_3_1){#2_3_1} General Information. 
+Forward waiver requests of eligibility or ineligibility criteria through appropriate command channels only if recommending approval. The overriding consideration is the best interest of the Air Force.
 
 ######[2.3.2.](#2_3_2){#2_3_2} Age Waivers. 
 [Table 2.1](#table2_1) shows maximum age for grades. The agencies below may not grant age waivers for appointment in the grade of second lieutenant beyond age 35. In the most unusual cases or the extraordinary qualifications of the individual, they may grant an age waiver for appointment in the grade of first lieutenant or higher. Waivers will not exceed the maximum age limit by more than 3 years. The following organizational activities consider age waivers: 
 + 2.3.2.1. HQ AFPC/DPAM (Force Management Branch), for persons who apply for appointment as medical service officers to fill active force requirements. 
-+ 2.3.2.2. HQ ARPC/DAO (Appointments Branch), for persons who apply for pointment to fill authorized position vacancies in the USAFR Ready Reserve. 
++ 2.3.2.2. HQ ARPC/DAO (Appointments Branch), for persons who apply for appointment to fill authorized position vacancies in the USAFR Ready Reserve. 
 + 2.3.2.3. ANG/MPP, for persons who apply for appointment to fill Air National Guard of the United States (ANGUS) vacancies. 
 + 2.3.2.4. NGB/HC, for persons who apply for appointment as ANGUS chaplains.
 + 2.3.2.5. HQ USAF/JAX, for persons who apply for appointment as judge advocates. 
@@ -36,13 +38,14 @@ To be eligible for appointment you must:
 + 2.3.2.7. HQ AFRC/HC, for persons who apply for appointment to fill USAFR Ready Reserve vacancies as chaplains.
 + 2.3.2.8. HQ AFPC/DPSIP, for persons who apply for appointment in other categories.
 
-######[2.3.3.](#2_3_3){#2_3_3} Moral Waivers. Refer to AFI 36-2002, Regular Air Force and Special Category Accessions, for list of typical offenses and waivers. 
+######[2.3.3.](#2_3_3){#2_3_3} Moral Waivers.
+Refer to AFI 36-2002, Regular Air Force and Special Category Accessions, for list of typical offenses and waivers. 
 + 2.3.3.1. Waiver approval authorities for applicants convicted or adversely adjudicated of Category I, II, and III offenses are: 
 	+ 2.3.3.1.1. AFRS/CC (may delegate to Recruiting Squadron/CC), for persons who apply for appointment to perform on EAD as medical service officers or for former officers applying for appointment to perform on EAD as LAF officers.
 	+ 2.3.3.1.2. AFRC/CV (Vice Commander), for appointment of ARTs and other non-EAD assigned airmen to Category A units. 
 	+ 2.3.3.1.3. Appointing authority for all other applicants. 
 + 2.3.3.2. Waiver approval authorities for persons convicted or adversely adjudicated of Category IV and V offenses are: 
-	+ 2.3.3.2.1. HQ ARPC/DP for persons applying for appointment in the programs in paragraph 1.14. 
+	+ 2.3.3.2.1. HQ ARPC/DP for persons applying for appointment in the programs in paragraph [1.14](../chapter1/chapter1.md#1_14). 
 	+ 2.3.3.2.2. ANG/MPP for persons applying for appointment to fill ANGUS vacancies. 	
 	+ 2.3.3.2.3. RS/CC for persons applying for the OTS commissioning program or for former officers applying for appointment to perform on EAD as LAF officers.
 	+ 2.3.3.2.4. Appointing authority for all other applicants.
@@ -74,7 +77,7 @@ certification requirements:
 + 2.3.4.6. ANGI 36-2005, Appointment of Officers in the Air National Guard of the United States and as Reserves of the Air Force(for ANGUS applicants) outlines waiver procedures concerning drug and alcohol abuse.
 
 ----
-#### 2.4. Former Officers of the Regular Air Force (RegAF).
+#### [2.4.](#2_4){#2_4} Former Officers of the Regular Air Force (RegAF).
 
 ######[2.4.1.](#2_4_1){#2_4_1} An officer who submits an unqualified resignation following a period of honorable service and who has a remaining Military Service Obligation (MSO) or unfulfilled contractual agreement, is discharged if he or she accepts a Reserve appointment in the grade held in the RegAF at the time of discharge. HQ ARPC/DAO initially transfers an officer with a remaining MSO to the Ready Reserve and assigns the officer to the ORS, ARPC, unless they applied for a Ready Reserve participating assignment. 
 
@@ -93,14 +96,14 @@ certification requirements:
 ######[2.4.5.](#2_4_5){#2_4_5} In addition to other requirements, a former chaplain submits a current DD Form 2088, Statement of Ecclesiastical Endorsement, for appointment as a ResAF.
 
 ----
-#### 2.5. Former Officers of Any of the Uniformed Services.
+#### [2.5.](#2_5){#2_5} Former Officers of Any of the Uniformed Services.
 Except for those ineligible under [Table 2.2](#table2_2) appointing authorities may appoint former officers of any of the services for duty in any specialty for which they qualify and for which there is a procurement quota. They may not appoint former officers based solely on prior service, except as provided in this instruction. 
 
 ----
-#### 2.6.Reserve Officers of Other Uniformed Services.
+#### [2.6.](#2_6){#2_6}Reserve Officers of Other Uniformed Services.
 Appointing authorities may not tender ResAF appointment to a Reserve officer of another uniformed service not on EAD whose service dates, Total Years Service Date (TYSD) and Date of Rank (DOR) place the officer beyond the mandatory phase point for promotion to the next Reserve grade. They may tender ResAF appointment to a Reserve officer of another uniformed service, if, in addition to the application and allied papers, they meet the following requirements: 
 
-######[2.6.1.](#2_6_1){#2_6_1} Age does notexceed the maximum for the grade ([Table 2.1](#table2_1)). If applying for flying training, the officer must commission in time to enter the program before age 27 1/2 years. 
+######[2.6.1.](#2_6_1){#2_6_1} Age does not exceed the maximum for the grade ([Table 2.1](#table2_1)). If applying for flying training, the officer must commission in time to enter the program before age 27 1/2 years. 
 
 ######[2.6.2.](#2_6_2){#2_6_2} A Ready Reserve position vacancy exists for which the officer qualifies. 
 
@@ -117,7 +120,7 @@ Appointing authorities may not tender ResAF appointment to a Reserve officer of 
 ######[2.6.8.](#2_6_8){#2_6_8} The officer is not in a failed promotion status. NOTE: Refer to [Table 2.3](#table2_3) when calculating entry grade credit. 
 
 ----
-#### 2.7. Former Officers Who Held an Aeronautical Rating. 
+#### [2.7.](#2_7){#2_7} Former Officers Who Held an Aeronautical Rating. 
 Appointing authorities may appoint former officers of any of the uniformed services (including RegAF officers who did not apply for Reserve commission within 12 months after resigning) who held an aeronautical rating to fill aircrew positions in the ANGUS, USAFR Ready Reserve, or on EAD. The applicant must meet the following eligibility requirements:
 
 ######[2.7.1.](#2_7_1){#2_7_1} Be available for, and agree to participate in, an aircrew position in the ANGUS, USAFR Ready Reserve, or on EAD for at least 4 years after being appointed.
@@ -133,11 +136,11 @@ Appointing authorities may appoint former officers of any of the uniformed servi
 ######[2.7.6.](#2_7_6){#2_7_6} Never nonselected for promotion to the next higher grade. 
 
 ----
-#### 2.8. OTS and AFROTC Graduates.
+#### [2.8.](#2_8){#2_8} OTS and AFROTC Graduates.
 In addition to meeting the eligibility requirements in this instruction, AFROTC and OTS graduates must meet the requirements in AFIs 36-2011 and 2013. 
 
 ----
-#### 2.9. Appointment as a ResAF Officer for Assignment to the Retired Reserve and Placement on the US Air Force Reserve Retired List.
+#### [2.9.](#2_9){#2_9} Appointment as a ResAF Officer for Assignment to the Retired Reserve and Placement on the US Air Force Reserve Retired List.
 Appointing authorities may appoint an individual who qualifies for membership in the Retired Reserve under AFI 36-3203, Service Retirements, and does not hold a Reserve commission under this paragraph for the sole purpose of assignment to the Retired Reserve. 
 
 ######[2.9.1.](#2_9_1){#2_9_1} Appoint in the highest grade the individual is eligible for by law. 
@@ -145,18 +148,18 @@ Appointing authorities may appoint an individual who qualifies for membership in
 ######[2.9.2.](#2_9_2){#2_9_2} Air Force Reserve members who choose discharge, in lieu of transfer to the Retired Reserve, will not be allowed to reaffiliate and will only be entitled to retired pay and medical care at age 60. This policy became effective 15 June 1993. 
 
 ----
-#### 2.10. Appointment as a ResAF Officer on Removal From the Temporary Disability Retired List (TDRL) (Title 10, U.S.C., Section 1211).
+#### [2.10.](#2_10){#2_10} Appointment as a ResAF Officer on Removal From the Temporary Disability Retired List (TDRL) (Title 10, U.S.C., Section 1211).
 Reappoint a member removed from TDRL after a finding of physically fit, the day following discharge from the TDRL, in the Reserve grade with DOR held when the member was placed on the TDRL. 
 
 ----
-#### 2.11. Posthumous Appointments.
+#### [2.11.](#2_11){#2_11} Posthumous Appointments.
 Posthumous appointment as a ResAF officer may be issued in the name of an Air Force member who was selected for appointment, or successfully completed officer training and was recommended for appointment by the school's commander, and died in the line of duty. (AFROTC cadets are not eligible for posthumous appointments.) The MAJCOM sends a request to publish the posthumous appointment to HQ AFPC/DPPAO. (No financial benefits accrue as a result of a posthumous appointment.) 
 
 ----
 #### 2.12. DELETED.
 
 ----
-#### 2.13. Process for Appointing USAFR Airmen Not on EAD.
+#### [2.13.](#2_13){#2_13} Process for Appointing USAFR Airmen Not on EAD.
 Appointing authorities direct appointment of qualified airmen not on EAD to officer status and a concurrent Selected Reserve assignment to fill a unit vacancy only in Line of the Air Force (LAF) specialties and in the grade of second lieutenant. 
 
 ######[2.13.1.](#2_13_1){#2_13_1} On discharging an airman to accept appointment under this program, the Reserve servicing MPF disposes of the field record group (FRGp) according to AFI 36-2608, Military Personnel Records Systems. 
@@ -166,7 +169,7 @@ Appointing authorities direct appointment of qualified airmen not on EAD to offi
 ######[2.13.3.](#2_13_3){#2_13_3} HQ AFRC/DPMB or HQ ARPC/DRM (Individual Programs Division) schedules the member to attend an officer training class. 
 
 ----
-#### 2.14. Qualifications for Appointing USAFR Airmen Not on EAD.
+#### [2.14.](#2_14){#2_14} Qualifications for Appointing USAFR Airmen Not on EAD.
 In addition to meeting the requirements in this chapter, applicants must: 
 
 ######[2.14.1.](#2_14_1){#2_14_1} Never before have held a commission. 
@@ -184,16 +187,16 @@ In addition to meeting the requirements in this chapter, applicants must:
 ######[2.14.7.](#2_14_7){#2_14_7} If applying for an ART position, qualify for the required civil service rating of the position. 
 
 ----
-#### 2.15. Unit of Assignment Instructions. 
+#### [2.15.](#2_15){#2_15} Unit of Assignment Instructions. 
 ######[2.15.1.](#2_15_1){#2_15_1} Determine whether the applicant meets the eligibility requirements. 
 
 ######[2.15.2.](#2_15_2){#2_15_2} Schedule eligible applicants for AFOQT and medical examination. 
 
-######[2.15.3.](#2_15_3){#2_15_3} Verify through the personnel data system (PDS) that the applicant meets the personnel security investigative requirements of paragraph 3.6. If not, initiate a request for a Personnel Security Investigation (PSI). 
+######[2.15.3.](#2_15_3){#2_15_3} Verify through the personnel data system (PDS) that the applicant meets the personnel security investigative requirements of paragraph [3.6](../chapter3/chapter3.md#3_6). If not, initiate a request for a Personnel Security Investigation (PSI). 
 
-######[2.15.4.](#2_15_4){#2_15_4} Help the applicant complete and assemble the forms and documents that make up the application package (paragraph 3.1.2). 
+######[2.15.4.](#2_15_4){#2_15_4} Help the applicant complete and assemble the forms and documents that make up the application package (paragraph [3.1.2](../chapter3/chapter3.md#3_1_2)). 
 
-+ 2.15.4.1. In item 26 of AF Form 24, Application for Appointment as Reserves of the Air Force or USAF Without Component, enter all civilian employment during the last 10 years. Explain in detail. Include a copy of the job description for each position held, if available. If the applicant is attending college full time, so state and show the major fieldof study. Attach: 
++ 2.15.4.1. In item 26 of AF Form 24, Application for Appointment as Reserves of the Air Force or USAF Without Component, enter all civilian employment during the last 10 years. Explain in detail. Include a copy of the job description for each position held, if available. If the applicant is attending college full time, so state and show the major field of study. Attach: 
 
 	+ 2.15.4.1.1. AF Form 1145, Evaluation of Commissioning Applicants. 
 
@@ -224,7 +227,7 @@ The unit of assignment commander may consider enlisted personnel within the unit
 substantiates. 
 
 ----
-#### 2.16. Major Command (MAJCOM) Processing Instructions.
+#### [2.16.](#2_16){#2_16} Major Command (MAJCOM) Processing Instructions.
 
 ######[2.16.1.](#2_16_1){#2_16_1} HQ AFRC/DPMB (for non-EAD Reserve airmen): 
 
@@ -236,19 +239,19 @@ substantiates.
 
 ######[2.16.2.](#2_16_2){#2_16_2} Other MAJCOMs, Field Operating Activities (FOA) and Direct Reporting Units (DRU) (for IMA applicants): 
 
-+ 2.16.2.1. Review applications for eligibility and complete-ness. 
++ 2.16.2.1. Review applications for eligibility and completeness. 
 
-+ 2.16.2.2. Indorse properly completed applications to HQ ARPC/DAO recommending approval or disapproval. 
++ 2.16.2.2. Endorse properly completed applications to HQ ARPC/DAO recommending approval or disapproval. 
 
 ----
-#### 2.17. HQ ARPC Processing Instructions.
+#### [2.17.](#2_17){#2_17} HQ ARPC Processing Instructions.
 
 ######[2.17.1.](#2_17_1){#2_17_1} For all applicants, completes all actions associated with appointing and assigning selected applicants. This includes discharging the selectee from airman status 1 day before the airman accepts a commission. HQ ARPC commander will review and approve or disapprove commissioning applications for USAFR Airmen not on EAD received from attached unit commanders for Category B positions. 
 
 ######[2.17.2.](#2_17_2){#2_17_2} Forwards a copy of the appointment order to HQ AFRC/DPMB on personnel commissioned under paragraphs [2.4](#2_4) through [2.7](#2_7) and [2.13](#2_13). 
 
 ----
-#### 2.18. Determining Service Credit.
+#### [2.18.](#2_18){#2_18} Determining Service Credit.
 The Reserve Officer Personnel Management Act (ROPMA) repealed Title 10, U.S.C., Section 8353, and enacted Section 12207, effective 1 October 1996. Appointing authorities must use this provision of law as implemented in this instruction to appoint persons in the Reserves on or after 1 October 1996. 
 
 ######[2.18.1.](#2_18_1){#2_18_1} Service credit includes: 
@@ -284,7 +287,7 @@ The Reserve Officer Personnel Management Act (ROPMA) repealed Title 10, U.S.C., 
 ######[2.18.6.](#2_18_6){#2_18_6} Without specific congressional direction, appointing authorities cannot apply constructive service credit or service credit entitlements (grandfathering) retroactively and a member cannot terminate his or her appointment and request reappointment in order to take advantage of changes to constructive service credit or service credit rules. 
 
 ----
-#### 2.19. Determining Grade, Computing and Recording Total Years Service Date (TYSD), Date of Rank (DOR), and Total Federal Commissioned Service Date (TFCSD).
+#### [2.19.](#2_19){#2_19} Determining Grade, Computing and Recording Total Years Service Date (TYSD), Date of Rank (DOR), and Total Federal Commissioned Service Date (TFCSD).
 
 ######[2.19.1.](#2_19_1){#2_19_1} Use [Table 2.3](#table2_3) to determine grade and compute TYSD, DOR, and TFCSD. 
 
@@ -293,10 +296,28 @@ The Reserve Officer Personnel Management Act (ROPMA) repealed Title 10, U.S.C., 
 ######[2.19.3.](#2_19_3){#2_19_3} Do not compute TYSD and DOR for officers holding only USAF (temporary) appointments. 
 
 {% include "./table2.1.md" %}
+
+---
+
 {% include "./table2.2.md" %}
+
+---
+
 {% include "./table2.3.md" %}
+
+---
+
 {% include "./table2.4.md" %}
+
+---
+
 {% include "./table2.5.md" %}
+
+---
+
 {% include "./table2.6.md" %}
+
+---
+
 {% include "./table2.7.md" %}
 

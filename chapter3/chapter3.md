@@ -78,7 +78,7 @@
 
 + 3.1.6.3. Verification letter (from the program director) with beginning and ending dates, if still in training (health care practitioners).
 
-+ 3.1.6.4. Statement in [.] 7, paragraph A7.1.1 (applicants for commission in the medical services for assignment to USAFR Ready Reserve unit or IMA positions).
++ 3.1.6.4. Statement in [Attachment 7](../attachments/attachment7.md), paragraph A7.1.1 (applicants for commission in the medical services for assignment to USAFR Ready Reserve unit or IMA positions).
 
 + 3.1.6.5. Statement in [Attachment 7](../attachments/attachment7.md), paragraph A7.2 (health care practitioners except clinical psychologists).
 
@@ -120,10 +120,12 @@
 
 + 3.1.6.23. Financial eligibility determination.
 
+---
 ####[3.2.](#3_2){#3_2} Processing Applications and Appointment of Medical Service Officers for Assignment to the Air Reserve Components.
 
 Appointment of medical service applicants (major and below) who are United States citizens, graduates of accredited United States schools, and desire affiliation with the Air Reserve components, will be within 30 days after receiving their complete application. 
 
+---
 ####[3.3.](#3_3){#3_3} Processing Applications to Officer Training Program Examining Centers (OTPEC).
 
 ######[3.3.1.](#3_3_1){#3_3_1} Continental US (CONUS), Alaska, and Hawaii. 
@@ -148,6 +150,7 @@ Examining boards recommend individuals who have not held an appointment and have
 
 Do not send these applications to the OTPECs for processing. The units having the vacancies a member wishes to fill process them.
 
+---
 ####[3.4.](#3_4){#3_4} Duties of the Examining Centers.
 
 Refer to AFI 36-2001, Officer Training Program Examining Centers
@@ -160,16 +163,18 @@ See [Table 3.1](#table3_1) for minimum scores.
 + 3.4.1.1. The following categories are exempt: 
 	 + 3.4.1.1.1 Former officers. 
 	 + 3.4.1.1.2 Officers of any of the services, except those applying for entry into pilot or navigator training. 
-	 + 3.4.1.1.3 Individuals applying under Chapter 5 and Chapter 6; Chapter 7, paragraph 7.3; and Chapter 8. 
+	 + 3.4.1.1.3 Individuals applying under Chapter 5 and Chapter 6; Chapter 7, paragraph [7.3](../chapter7/chapter7.md#7_3); and Chapter 8. 
 
 ######[3.4.2.](#3_4_2){#3_4_2} Testing requirements for AFROTC students and individuals applying for entry into OTS are in AFI 36-2013. 
 
+---
 ####[3.5.](#3_5){#3_5} Selecting Applicants.
 
-######[3.5.1.](#3_5_1){#3_5_1} The selection authorities specified in paragraphs 1.5 through 1.8 and 1.12 through 1.14 review applications and make selections. Selection boards include at least one Reserve officer. They select applicants through the use of a quality-oriented system including, but not limited to, factors such as education, experience, test scores, potential, motivation, and, if applicable, prior military performance. 
+######[3.5.1.](#3_5_1){#3_5_1} The selection authorities specified in paragraphs [1.5](../chapter1/chapter1.md#1_5) through [1.8](../chapter1/chapter1.md#1_8) and [1.12](../chapter1/chapter1.md#1_12) through [1.14](../chapter1/chapter1.md#1_14) review applications and make selections. Selection boards include at least one Reserve officer. They select applicants through the use of a quality-oriented system including, but not limited to, factors such as education, experience, test scores, potential, motivation, and, if applicable, prior military performance. 
 
 ######[3.5.2.](#3_5_2){#3_5_2} Selection authorities generate accessions data as prescribed in the PDS Documentation Handbook 171-130, part one, section 7. 
 
+---
 ####[3.6.](#3_6){#3_6} Personnel Security Investigations (PSI).
 
 Prior enlisted personnel selected for appointment may receive a commission based on a favorable ENTNAC if they have not had a break in service greater than 24 months. For all others a NAC is required. 
@@ -186,6 +191,7 @@ Prior enlisted personnel selected for appointment may receive a commission based
 
 ######[3.6.4.](#3_6_4){#3_6_4} Only HQ 497IG/INS has the authority to record clearance eligibility in the PDS. They forward copies of investigations containing questionable information to the appointing authority for a suitability determination. After review of the investigation, the appointing authority advises HQ 497IG/INS of the applicant's acceptance or rejection for commissioning. 
 
+---
 ####[3.7.](#3_7){#3_7} Appointing Selectees and Notifying Nonselectees.
 
 ######[3.7.1.](#3_7_1){#3_7_1} Appointing authorities appoint selectees by memorandum or administrative order. They issue appointments as of the current date and make them effective as of the date of acceptance. 
@@ -204,6 +210,7 @@ Prior enlisted personnel selected for appointment may receive a commission based
 
 ######[3.7.4.](#3_7_4){#3_7_4} Appointing authorities establish procedures to notify the losing service of the acceptance of their members for appointment as ResAF officers. Notification must contain complete information. 
 
+---
 ####[3.8.](#3_8){#3_8} Designation To Perform Professional Functions as a Chaplain, Judge Advocate, or Medical Service Officer.
 
 A reappointment action is usually required when a ResAF officer is designated to perform professional functions. To apply, an officer submits a memorandum application and attaches documents not already included in the Master Personnel Record Group (MPerRGp). EXAMPLE: Diploma from medical school, transcript of college work, copy of license to practice, and any other documents or information the officer desires to submit. 
@@ -228,6 +235,7 @@ A reappointment action is usually required when a ResAF officer is designated to
 
 ######[3.8.6.](#3_8_6){#3_8_6} When a line officer on flying status with a current effective aeronautical rating accepts reappointment in the medical service, or as a chaplain, or judge advocate, the appropriate office (AFI 11-402) publishes an order disqualifying the officer from flying status. 
 
+---
 ####[3.9.](#3_9){#3_9} Validity of Oaths of Office and Acceptances.
 
 ######[3.9.1.](#3_9_1){#3_9_1} Each individual must take and subscribe to an oath of office according to AFI 36-2006, Oath of Office (Military Personnel) and Certificate of Commission before entering the duties of the office. The appointing authority cancels the appointment if the individual will not execute the oath of office without modifications or reservations. In situations described in 3.9.2 and 3.9.3, when an officer establishes acceptance by another means, the officer must submit a properly executed oath of office as a prerequisite for entitlement to full pay and allowances. 
@@ -246,6 +254,7 @@ A reappointment action is usually required when a ResAF officer is designated to
 
 ######[3.9.4.](#3_9_4){#3_9_4} When an individual who is in training to qualify for later reappointment executes the oath of office on a date after he or she completes educational requirements, the appointing authority annotates the oath as follows: Date of appointment recorded for record purposes as the completion date of educational requirements. 
 
+---
 ####[3.10.](#3_10){#3_10} Orders and Records.
 
 ######[3.10.1.](#3_10_1){#3_10_1} General Information.
@@ -258,5 +267,10 @@ Issue AF Form 778, Reserve Appointment Order, or a composed order to announce ac
 
 ######[3.10.3.](#3_10_3){#3_10_3} Changes to Orders--Amendments, Rescissions, and Revocations. Organizations publishing the original order, use AF Form 973, Request and Authorization for Change of Administrative Orders, or a composed order, if the form is not practical. Publish in the same series as the original order; that is, amend a Reserve order with a Reserve order. 
 
+---
+
 {% include "./table3.1.md" %}
+
+---
+
 {% include "./table3.2.md" %}

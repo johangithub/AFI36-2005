@@ -1,8 +1,12 @@
 # Chapter 6: Appointing Physicians (includes osteopaths), Dentists, and Nurses
 
+---
+
 ####[6.1.](#6_1){#6_1} How To Apply.
 
-See [Table 3.2](../chapter3/chapter3.md#table3_2) and paragraphs 3.1.2 and 3.1.6. 
+See [Table 3.2](../chapter3/chapter3.md#table3_2) and paragraphs [3.1.2](../chapter3/chapter3.md#3_1_2) and [3.1.6](../chapter3/chapter3.md#3_1_6). 
+
+---
 
 ####[6.2.](#6_2){#6_2} Doctors of Medicine (MD), Doctors of Osteopathic Medicine (DO), and Doctors of Dentistry (DDS or DMD).
 
@@ -34,13 +38,13 @@ Regardless of the provisions of paragraph 6.2.1.4, reappointment as first lieute
 
 ###### [6.2.3.](#6_2_3){#6_2_3} Appointment in Higher Grades.
 
-Applicants must possess all the qualifications specified in paragraph 
-
-6.2.1They must also have sufficient service credit awarded under [Table 2.4](../chapter2/chapter2.md#table2_4) to qualify for a higher grade determined according to [Table 2.1](../chapter2/chapter2.md#table2_1). 
+Applicants must possess all the qualifications specified in paragraph [6.2.1](#6_2_1). They must also have sufficient service credit awarded under [Table 2.4](../chapter2/chapter2.md#table2_4) to qualify for a higher grade determined according to [Table 2.1](../chapter2/chapter2.md#table2_1). 
 
 ###### [6.2.4.](#6_2_4){#6_2_4} Final Year Sponsorship. 
 
 Persons applying for appointment in the MC or DC to complete a sponsored residency or fellowship program must sign a statement of understanding ([Attachment 7](../attachments/attachment7.md), paragraph A7.7). 
+
+---
 
 ####[6.3.](#6_3){#6_3} Nurses.
 
@@ -63,4 +67,4 @@ Persons applying for appointment in the MC or DC to complete a sponsored residen
 
 ###### [6.3.2.](#6_3_2){#6_3_2} Appointment in Other Grades. 
 
-In addition to meeting the qualifications under paragraph 6.3.1, see [Table 2.1](../chapter2/chapter2.md#table2_1), [Table 2.5](../chapter2/chapter2.md#table2_5), and [Table 2.7](../chapter2/chapter2.md#table2_7). 
+In addition to meeting the qualifications under paragraph [6.3.1](#6_3_1), see [Table 2.1](../chapter2/chapter2.md#table2_1), [Table 2.5](../chapter2/chapter2.md#table2_5), and [Table 2.7](../chapter2/chapter2.md#table2_7). 

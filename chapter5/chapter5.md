@@ -1,5 +1,6 @@
 # Chapter 5: Appointing Chaplains
 
+---
 #### [5.1.](#5_1){#5_1} Application for the Air Force Chaplaincy.
 
 ######[5.1.1.](#5_1_1){#5_1_1} General. 
@@ -12,7 +13,7 @@
 
 ######[5.1.2.](#5_1_2){#5_1_2} Application Procedure.
 
-[Table 3.2](../chapter3/chapter3.md#table3_2) tells where to submit applications. Applications must include all applicable documents listed in paragraphs 3.1.2 and 3.1.5. 
+[Table 3.2](../chapter3/chapter3.md#table3_2) tells where to submit applications. Applications must include all applicable documents listed in paragraphs [3.1.2](../chapter3/chapter3.md#3_1_2) and [3.1.5](../chapter3/chapter3.md#3_1_5). 
 
 ######[5.1.3.](#5_1_3){#5_1_3} Qualification and Requirements.
 
@@ -33,8 +34,11 @@ Applicant must possess a baccalaureate degree with not less than 120 semester ho
 
 + 5.1.4.2. Appear on the annual State Department list of Foreign Terror Organizations or theTreasury Department list of Specially Designated Nationals. The Executive Director of the Armed Forces Chaplain Board, with each of the Service Chiefs of Chaplains support on a rotating basis, shall annually review the State Department list of Foreign Terror Organizations and the Treasury Department list of Specially Designated Nationals to ensure all current ecclesiastical endorsing agents and all ecclesiastical endorsing applicants and their religious organizations are not on such lists.
 
+---
+
 5.2. DELETED
 
+---
 #### [5.3.](#5_3){#5_3} Ecclesiastical Endorsement.
 
 ######[5.3.1.](#5_3_1){#5_3_1} Applicants for chaplaincy with concurrent extended active duty must ask their ecclesiastical endorsing agency to submit an endorsement on DD Form 2088 to HQ AFRS/RSOCC. Applicants for Reserve chaplaincy send form to HQ AFRC/HC; for ANG to NGB/HC (see [Attachment 1](../attachments/attachment1.md) for addresses). Appropriate authority reviews the DD Form 2088 and forwards the application forms with instructions to the applicant (Reserve and ANG will send if there is a vacancy).
@@ -48,6 +52,8 @@ Applicant must possess a baccalaureate degree with not less than 120 semester ho
 + 5.3.2.3. Sensitive to religious pluralism and will support the free exercise of religion by all military personnel, their family members, and other authorized personnel the military services serve.
 
 + 5.3.2.4. Has two years of religious leadership experience compatible with the duties of a Religious Ministry Professional in the applicant’s respective religious organization. This requirement applies only to applicants for chaplaincy with concurrent extended active duty.
+
+---
 
 #### [5.4.](#5_4){#5_4} The Chaplain Candidate Program.
 
@@ -105,6 +111,8 @@ Address a chaplain candidate, when in military status, as "lieutenant," with wri
 + 5.4.6.3. A member's active participation as a continuation candidate requires a written "statement of intent" at least annually. Except in the most unusual circumstances, HQ AFRC/HC submits a continuation candidate for involuntary administrative discharge if he or she fails to obtain ecclesiastical endorsement within 3 years after graduating from seminary.
 
 5.4.7. DELETED
+
+---
 
 #### [5.5.](#5_5){#5_5} Appointment or Reappointment From Enlisted or Line Officer Status.
 
