@@ -100,7 +100,7 @@ certification requirements:
 Except for those ineligible under [Table 2.2](#table2_2) appointing authorities may appoint former officers of any of the services for duty in any specialty for which they qualify and for which there is a procurement quota. They may not appoint former officers based solely on prior service, except as provided in this instruction. 
 
 ----
-#### [2.6.](#2_6){#2_6}Reserve Officers of Other Uniformed Services.
+#### [2.6.](#2_6){#2_6} Reserve Officers of Other Uniformed Services.
 Appointing authorities may not tender ResAF appointment to a Reserve officer of another uniformed service not on EAD whose service dates, Total Years Service Date (TYSD) and Date of Rank (DOR) place the officer beyond the mandatory phase point for promotion to the next Reserve grade. They may tender ResAF appointment to a Reserve officer of another uniformed service, if, in addition to the application and allied papers, they meet the following requirements: 
 
 ######[2.6.1.](#2_6_1){#2_6_1} Age does not exceed the maximum for the grade ([Table 2.1](#table2_1)). If applying for flying training, the officer must commission in time to enter the program before age 27 1/2 years. 

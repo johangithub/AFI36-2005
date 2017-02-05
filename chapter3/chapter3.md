@@ -64,15 +64,16 @@
 
 ######[3.1.5.](#3_1_5){#3_1_5} For applications under Chapter 5, include the following documents in addition to those required in paragraph [3.1.2](#3_1_2). 
 
-3.1.5.1. DD Form 2088. 3.1.5.2.Certified scholastic transcripts. 
++ 3.1.5.1. DD Form 2088. 
++ 3.1.5.2. Certified scholastic transcripts. 
 
 ######[3.1.6.](#3_1_6){#3_1_6} For applications under Chapter 6, Chapter 7, or Chapter 8, include the following documents in addition to those required in paragraph [3.1.2](#3_1_2). 
 
 + 3.1.6.1. A verified copy of license to practice, registration, or certification, if applying for appointment in a specialty that requires licensure, registration, or certification. NOTE: Verify license to practice, registration, and certification through the issuing source. 
 
-	 + 3.1.6.1. Foreign trained physicians must submit evidence of permanent certification by the ECFMG or the Fifth Pathway program. They must also submit a verified copy of the initial license as well as the current license to practice in a state, the District of Columbia, the Commonwealth of Puerto Rico, or a territory of the United States. 
+	 + 3.1.6.1.1 Foreign trained physicians must submit evidence of permanent certification by the ECFMG or the Fifth Pathway program. They must also submit a verified copy of the initial license as well as the current license to practice in a state, the District of Columbia, the Commonwealth of Puerto Rico, or a territory of the United States. 
 
-	 + 3.1.6.1. Nurses must have current registration in at least one state, the District of Columbia (DC), the Commonwealth of Puerto Rico, or a territory of the United States. Nurse anesthetists submit documentary evidence of current certification by the Council on Accreditation of Programs in Nurse Anesthesia.
+	 + 3.1.6.1.2 Nurses must have current registration in at least one state, the District of Columbia (DC), the Commonwealth of Puerto Rico, or a territory of the United States. Nurse anesthetists submit documentary evidence of current certification by the Council on Accreditation of Programs in Nurse Anesthesia.
 
 + 3.1.6.2. A verified (through the issuing source) copy of certificate of internship training, residency training, and board certification (health care practitioners).
 

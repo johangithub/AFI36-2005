@@ -8,5 +8,6 @@ Read AFI36-2005 [here](https://johangithub.gitbooks.io/afi36-2005/)
 
 ###### TODO: 
 - [X] Finish Crosslinking the paragraphs
+- [X] Sidebar subsections
 - [ ] Attachments
 - [ ] Create Index page for each chapter
