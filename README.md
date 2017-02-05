@@ -8,25 +8,11 @@ Read the AFI36-2005 [here](https://johangithub.gitbooks.io/afi36-2005/)
 
 If you see any typos or issues, create issue [here](https://github.com/johangithub/AFI36-2005/issues)
 
-<<<<<<< HEAD
 ###### TODO: 
 - [] Fix Crosslinking the paragraphs
 - [X] Sidebar subsections
 - [ ] Attachments
 - [X] Create Index page for each chapter
 - [ ] Intro / Instruction page
-=======
-###### TODO:
 
-\[X\] Finish Crosslinking the paragraphs
-
-\[X\] Sidebar subsections
-
-\[X\] PDF Publishing
-
-* [ ] Attachments
-* [ ] Create Index page for each chapter
-
-
->>>>>>> fca05e000f6a03d6ac99deecfa46ab41b4c52388
 
